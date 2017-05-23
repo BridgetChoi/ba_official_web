@@ -64,6 +64,6 @@ D:\Web_Project\official_web_ba\official_web_ba\bin\Microsoft.Owin.Security.OAuth
 D:\Web_Project\official_web_ba\official_web_ba\bin\Microsoft.Owin.Security.Google.xml
 D:\Web_Project\official_web_ba\official_web_ba\bin\Microsoft.Owin.Security.Twitter.xml
 D:\Web_Project\official_web_ba\official_web_ba\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-D:\Web_Project\official_web_ba\official_web_ba\obj\Debug\official_web_ba.csprojResolveAssemblyReference.cache
 D:\Web_Project\official_web_ba\official_web_ba\obj\Debug\official_web_ba.dll
 D:\Web_Project\official_web_ba\official_web_ba\obj\Debug\official_web_ba.pdb
+D:\Web_Project\official_web_ba\official_web_ba\obj\Debug\official_web_ba.csprojResolveAssemblyReference.cache
